@@ -1,0 +1,16 @@
+{
+  "name": "array-cardio-day-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {
+    "babel-cli": "^6.24.0",
+    "babel-preset-env": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Devon Jue",
+  "license": "ISC"
+}
